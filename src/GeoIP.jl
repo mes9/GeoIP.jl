@@ -9,6 +9,7 @@ module GeoIP
     import Base: Zip2
     export
         # types
+# nick is stupid
         Location,
         # methods
         geolocate
